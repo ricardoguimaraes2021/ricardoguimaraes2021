@@ -15,7 +15,7 @@
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ricardoguimaraes2021&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&show_icons=true&icon_color=ff6b6b&title_color=ff6b6b"
+    src="https://github-readme-stats.vercel.app/api?username=ricardoguimaraes2021&show_icons=true&count_private=true&theme=dracula&hide_border=false&icon_color=ff6b6b&title_color=ff6b6b&bg_color=0D1117"
     height="165"
     alt="GitHub Stats"
   />
@@ -24,14 +24,14 @@
   
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoguimaraes2021&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&title_color=ff6b6b"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoguimaraes2021&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&title_color=ff6b6b&bg_color=0D1117"
     height="165"
     alt="Top Languages"
   />
 
   <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.demolab.com?user=ricardoguimaraes2021&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D"
+    src="https://github-readme-streak-stats.demolab.com?user=ricardoguimaraes2021&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D&background=0D1117"
     height="165"
     alt="GitHub Streak"
   />
@@ -189,4 +189,3 @@ A real-world system for managing public space occupancy with weather integration
   ✨ _Thanks for visiting my profile! Feel free to explore my projects or reach out._ ✨
   
 </div>
-
