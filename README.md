@@ -29,19 +29,9 @@
     alt="Top Languages"
   />
 
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.demolab.com?user=ricardoguimaraes2021&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D&background=0D1117"
-    height="165"
-    alt="GitHub Streak"
-  />
-
 </div>
 
 ---
-
-<!-- GIF -->
-<img align="right" height="200" src="https://media.tenor.com/On7kvXhzml4AAAAj/coding.gif" alt="Developer GIF" />
 
 ### 🔧 Tech Stack
 
@@ -72,7 +62,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   
@@ -189,3 +179,4 @@ A real-world system for managing public space occupancy with weather integration
   ✨ _Thanks for visiting my profile! Feel free to explore my projects or reach out._ ✨
   
 </div>
+
